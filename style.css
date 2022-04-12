@@ -1,0 +1,45 @@
+h3{
+    font-size: large;
+}
+
+.grid{
+    width: 300;
+    height: 300;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    border: orangered;
+}
+
+#mycarousel 
+{
+background-color: firebrick;    
+}
+#mycarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: coral;
+    font-size: 20px;
+    font-weight: bolder;
+    background-color: aliceblue;
+    border-radius: 20px;
+    width: 500px;
+}
+
+#body{
+    background-color: firebrick;
+    color: coral;
+}
+
+#h3{
+    font-weight: bolder;
+    background-color: aliceblue;
+    width: 500px;
+    border-radius: 20px;
+}
